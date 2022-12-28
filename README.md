@@ -1,6 +1,6 @@
 # Unity Project 2020
 A horror-themed game made with unity for CIS 350.
 
-This repo contains a file that can be downloaded to demo the game and  the code used in the game. Below you will find a link to a folder on google drive that contains a folder if one wishes to download the whole project for themselves, and another folder that contains the project's SRS, tests, use case diagrams, etc.
+This repo contains a file that can be downloaded to demo the game and the scripts used in the game. Below you will find a link to a Azure DevOps repository all source code/project files, the SRS, tests, use case diagrams, etc.
 
-[Click here to see project on Google Drive ](https://drive.google.com/drive/folders/1nogPiGDKTsmIiyJO-68T82u337ano4Q_?usp=sharing)
+[Click here to see project on Azure DevOps](https://dev.azure.com/jakeirons007/_git/UnityProject2020)
